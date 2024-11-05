@@ -1,11 +1,9 @@
 <h1 align="center">
-  <b>Angad Singh</b>
+  <b>Hi 👋 I'm Angad Singh</b>
 </h1>
 
 Heya! I'm Angad Singh, a student currently living in Jaipur, India.
 I'm learning programming through small projects.
-
-<br>
 
 ## My Tech Stack
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js&perline=14" />
